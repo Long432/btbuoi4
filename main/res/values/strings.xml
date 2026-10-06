@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Student Manager</string>
+    <string name="empty_list">No students yet. Tap + to add.</string>
+    <string name="add_student">Add student</string>
+
+    <string name="title_add">Add student</string>
+    <string name="title_edit">Edit student</string>
+    <string name="hint_name">Full name</string>
+    <string name="hint_code">Student ID</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_avatar_link">Avatar link (URL)</string>
+    <string name="btn_pick_image">Choose image from device</string>
+    <string name="btn_save">Save</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="close">Close</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="detail_code">Student ID: %1$s</string>
+    <string name="detail_email">Email: %1$s</string>
+
+    <string name="confirm_edit">Do you want to edit this student\'s information?</string>
+    <string name="confirm_delete">Do you want to delete this student\'s information?</string>
+
+    <string name="err_required">This field is required</string>
+    <string name="err_email">Invalid email</string>
+    <string name="err_duplicate_code">This student ID already exists</string>
+</resources>
